@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: users
+    tables:
+      - name: users
+  - name: apps
+    tables:
+      - name: apps

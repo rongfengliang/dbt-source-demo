@@ -1,0 +1,6 @@
+version: 2
+sources:
+  - name: users
+    schema: public
+    tables:
+      - name: users
